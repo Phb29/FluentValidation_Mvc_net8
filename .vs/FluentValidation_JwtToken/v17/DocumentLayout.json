@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\FluentValidation_JwtToken\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43CA9DBF-AAD4-4215-BBE5-75BEEB51434D}|FluentValidation_JwtToken\\FluentValidation_JwtToken.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\projeto api fit certo\\fluentvalidation_jwttoken\\fluentvalidation_jwttoken\\views\\filme\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43CA9DBF-AAD4-4215-BBE5-75BEEB51434D}|FluentValidation_JwtToken\\FluentValidation_JwtToken.csproj|solutionrelative:fluentvalidation_jwttoken\\views\\filme\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43CA9DBF-AAD4-4215-BBE5-75BEEB51434D}|FluentValidation_JwtToken\\FluentValidation_JwtToken.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\projeto api fit certo\\fluentvalidation_jwttoken\\fluentvalidation_jwttoken\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43CA9DBF-AAD4-4215-BBE5-75BEEB51434D}|FluentValidation_JwtToken\\FluentValidation_JwtToken.csproj|solutionrelative:fluentvalidation_jwttoken\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43CA9DBF-AAD4-4215-BBE5-75BEEB51434D}|FluentValidation_JwtToken\\FluentValidation_JwtToken.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\projeto api fit certo\\fluentvalidation_jwttoken\\fluentvalidation_jwttoken\\views\\filme\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43CA9DBF-AAD4-4215-BBE5-75BEEB51434D}|FluentValidation_JwtToken\\FluentValidation_JwtToken.csproj|solutionrelative:fluentvalidation_jwttoken\\views\\filme\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43CA9DBF-AAD4-4215-BBE5-75BEEB51434D}|FluentValidation_JwtToken\\FluentValidation_JwtToken.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\projeto api fit certo\\fluentvalidation_jwttoken\\fluentvalidation_jwttoken\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43CA9DBF-AAD4-4215-BBE5-75BEEB51434D}|FluentValidation_JwtToken\\FluentValidation_JwtToken.csproj|solutionrelative:fluentvalidation_jwttoken\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43CA9DBF-AAD4-4215-BBE5-75BEEB51434D}|FluentValidation_JwtToken\\FluentValidation_JwtToken.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\projeto api fit certo\\fluentvalidation_jwttoken\\fluentvalidation_jwttoken\\validator\\filmevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43CA9DBF-AAD4-4215-BBE5-75BEEB51434D}|FluentValidation_JwtToken\\FluentValidation_JwtToken.csproj|solutionrelative:fluentvalidation_jwttoken\\validator\\filmevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43CA9DBF-AAD4-4215-BBE5-75BEEB51434D}|FluentValidation_JwtToken\\FluentValidation_JwtToken.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\projeto api fit certo\\fluentvalidation_jwttoken\\fluentvalidation_jwttoken\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43CA9DBF-AAD4-4215-BBE5-75BEEB51434D}|FluentValidation_JwtToken\\FluentValidation_JwtToken.csproj|solutionrelative:fluentvalidation_jwttoken\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43CA9DBF-AAD4-4215-BBE5-75BEEB51434D}|FluentValidation_JwtToken\\FluentValidation_JwtToken.csproj|c:\\users\\paulo\\onedrive\\\u00E1rea de trabalho\\projeto api fit certo\\fluentvalidation_jwttoken\\fluentvalidation_jwttoken\\views\\filme\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43CA9DBF-AAD4-4215-BBE5-75BEEB51434D}|FluentValidation_JwtToken\\FluentValidation_JwtToken.csproj|solutionrelative:fluentvalidation_jwttoken\\views\\filme\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\FluentValidation_JwtToken\\FluentValidation_JwtToken\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FluentValidation_JwtToken\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\FluentValidation_JwtToken\\FluentValidation_JwtToken\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FluentValidation_JwtToken\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T03:28:16.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilmeValidator.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\FluentValidation_JwtToken\\FluentValidation_JwtToken\\Validator\\FilmeValidator.cs",
+              "RelativeDocumentMoniker": "FluentValidation_JwtToken\\Validator\\FilmeValidator.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\FluentValidation_JwtToken\\FluentValidation_JwtToken\\Validator\\FilmeValidator.cs",
+              "RelativeToolTip": "FluentValidation_JwtToken\\Validator\\FilmeValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T03:23:44.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\FluentValidation_JwtToken\\FluentValidation_JwtToken\\Views\\Filme\\Index.cshtml",
+              "RelativeDocumentMoniker": "FluentValidation_JwtToken\\Views\\Filme\\Index.cshtml",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\FluentValidation_JwtToken\\FluentValidation_JwtToken\\Views\\Filme\\Index.cshtml",
+              "RelativeToolTip": "FluentValidation_JwtToken\\Views\\Filme\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T03:10:03.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmeController.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\FluentValidation_JwtToken\\FluentValidation_JwtToken\\Controllers\\FilmeController.cs",
+              "RelativeDocumentMoniker": "FluentValidation_JwtToken\\Controllers\\FilmeController.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\FluentValidation_JwtToken\\FluentValidation_JwtToken\\Controllers\\FilmeController.cs",
+              "RelativeToolTip": "FluentValidation_JwtToken\\Controllers\\FilmeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T03:08:22.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\FluentValidation_JwtToken\\FluentValidation_JwtToken\\Views\\Filme\\New.cshtml",
+              "RelativeDocumentMoniker": "FluentValidation_JwtToken\\Views\\Filme\\New.cshtml",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\FluentValidation_JwtToken\\FluentValidation_JwtToken\\Views\\Filme\\New.cshtml",
+              "RelativeToolTip": "FluentValidation_JwtToken\\Views\\Filme\\New.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T03:02:40.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\FluentValidation_JwtToken\\FluentValidation_JwtToken\\Views\\Filme\\Update.cshtml",
+              "RelativeDocumentMoniker": "FluentValidation_JwtToken\\Views\\Filme\\Update.cshtml",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\FluentValidation_JwtToken\\FluentValidation_JwtToken\\Views\\Filme\\Update.cshtml",
+              "RelativeToolTip": "FluentValidation_JwtToken\\Views\\Filme\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T03:01:47.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\FluentValidation_JwtToken\\FluentValidation_JwtToken\\Models\\Filme.cs",
+              "RelativeDocumentMoniker": "FluentValidation_JwtToken\\Models\\Filme.cs",
+              "ToolTip": "C:\\Users\\paulo\\OneDrive\\\u00C1rea de Trabalho\\pROJETO API fit certo\\FluentValidation_JwtToken\\FluentValidation_JwtToken\\Models\\Filme.cs",
+              "RelativeToolTip": "FluentValidation_JwtToken\\Models\\Filme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:55:04.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

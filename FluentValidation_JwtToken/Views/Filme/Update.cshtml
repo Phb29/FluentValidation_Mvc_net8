@@ -1,0 +1,29 @@
+﻿@model Filme
+
+<h2 class="text-center">Alterar Filme</h2>
+
+<div class="row">
+    <div class="col-md-6 mx-auto">
+        <form asp-controller="Filme" asp-action="Update" method="POST">
+            <input type="hidden" asp-for="Id"/>
+
+            <div class="form-group">
+                <label asp-for="Titulo"></label>
+                <input type="text" asp-for="Titulo" class="form-control"/>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Diretor"></label>
+                <input type="text" asp-for="Diretor" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Ano"></label>
+                <input type="number" asp-for="Ano" class="form-control"/>
+            </div>
+
+            <input type="submit" class="btn btn-primary btn-block" value="Save"/>
+
+        </form>
+    </div>
+</div>

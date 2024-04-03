@@ -1,0 +1,41 @@
+﻿@model List<Filme>
+
+
+<a class="btn btn-primary" asp-controller="Filme" asp-action="New">Adicionar novo Filme</a>
+
+    
+@if(Model.Count == 0){
+    <p class="text-center">Nenhum Filme Encontrado</p>
+}else{
+    <div class="table-responsive">
+        <table class="table table-striped" id="Table-Employee">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">Titulo</th>
+                    <th scope="col">Diretor</th>
+                    <th scope="col">Ano</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var f in Model)
+                {
+                    <tr>
+                        <td>@f.Titulo</td>
+                        <td>@f.Diretor</td>
+                        <td>@f.Ano</td>
+                        <td>
+                            <a asp-action="Delete" asp-route-id="@f.Id" class="btn btn-danger">Delete</a>
+                        </td>
+                        <td>
+                            <a class="btn btn-secondary btn-md" asp-action="Update" asp-route-id="@f.Id">Editar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+
+}
